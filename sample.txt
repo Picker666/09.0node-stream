@@ -1,0 +1,11 @@
+this is header...
+this is the text from write stream...game over...1
+this is the text from write stream...game over...2
+this is the text from write stream...game over...3
+this is the text from write stream...game over...4
+this is the text from write stream...game over...5
+this is the text from write stream...game over...6
+this is the text from write stream...game over...7
+this is the text from write stream...game over...8
+this is the text from write stream...game over...9
+this is the text from write stream...game over...0
